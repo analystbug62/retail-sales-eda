@@ -1,5 +1,5 @@
 # Retail Sales EDA Project
-
+ 
 ## Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset using Python, Pandas, and Matplotlib.
